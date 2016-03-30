@@ -1,6 +1,0 @@
-C:\Users\allewellyn\Documents\Work\CodeExamples\GenericsExamples\GenericsExamples\bin\Debug\GenericsExamples.exe.config
-C:\Users\allewellyn\Documents\Work\CodeExamples\GenericsExamples\GenericsExamples\obj\Debug\GenericsExamples.csprojResolveAssemblyReference.cache
-C:\Users\allewellyn\Documents\Work\CodeExamples\GenericsExamples\GenericsExamples\bin\Debug\GenericsExamples.exe
-C:\Users\allewellyn\Documents\Work\CodeExamples\GenericsExamples\GenericsExamples\bin\Debug\GenericsExamples.pdb
-C:\Users\allewellyn\Documents\Work\CodeExamples\GenericsExamples\GenericsExamples\obj\Debug\GenericsExamples.exe
-C:\Users\allewellyn\Documents\Work\CodeExamples\GenericsExamples\GenericsExamples\obj\Debug\GenericsExamples.pdb
