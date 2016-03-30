@@ -10,10 +10,10 @@ namespace GenericsExamples
     {
         public void SwapFunction<T>(ref T item1, ref T item2)
         {
-            T temp;
-            temp = item1;
+            T temporaryValue;
+            temporaryValue = item1;
             item1 = item2;
-            item2 = temp;
+            item2 = temporaryValue;
         }
     }
 }

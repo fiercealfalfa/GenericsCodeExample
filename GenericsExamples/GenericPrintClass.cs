@@ -10,10 +10,10 @@ namespace GenericsExamples
         {
             T value;
 
-            public GenericPrintClass(T test)
+            public GenericPrintClass(T itemToPrint)
             {
 
-                value = test;
+                value = itemToPrint;
             }
 
             public void Print()
