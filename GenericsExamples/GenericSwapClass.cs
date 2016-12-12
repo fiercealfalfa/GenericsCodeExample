@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace GenericsExamples
 {
-    class GenericSwapClass
+    public class GenericSwapClass
     {
+        public GenericSwapClass()
+            {
+            }
+      
         public void SwapFunction<T>(ref T item1, ref T item2)
         {
             T temporaryValue;
